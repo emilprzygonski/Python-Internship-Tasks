@@ -6,8 +6,6 @@ This repo contains folder with ML tasks and folder with Python tasks. In both fo
 
 ### Folder content 
 In task 1 folder you can find:
-- .py file with data preparation
-- .py file with model training
 - .ipynb file that contains both files in one script
 
 ### Description
